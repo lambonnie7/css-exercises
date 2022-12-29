@@ -1,0 +1,19 @@
+.first {
+    background-color: #ff9999;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#un {
+    color: #005ce6;
+    font-size: 36px;
+}
+
+.second {
+    font-size: 24px;
+}
+
+#ique {
+    background-color:  #66ff99;
+    font-size: 24px;
+    font-weight: bold;
+}
